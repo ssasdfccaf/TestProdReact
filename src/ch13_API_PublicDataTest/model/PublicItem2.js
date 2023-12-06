@@ -33,7 +33,7 @@ const NewsItemCss = styled.div`
       margin: 0;
       line-height: 1.5;
       margin-top: 0.5rem;
-      //텍스나 내용이 일반적인 공백과 줄 바꿈 규칙을 따름.
+      // 텍스나 내용이 일반적인 공백과 줄 바꿈 규칙을 따름.
       // 브라우저의 너비에 따라 자동으로 줄바꿈됨.
       white-space: normal;
     }
